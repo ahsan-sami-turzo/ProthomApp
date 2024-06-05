@@ -287,5 +287,3 @@ fun DefaultPreview() {
         MainScreen()
     }
 }
-
-
